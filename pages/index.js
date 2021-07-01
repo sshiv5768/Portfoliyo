@@ -11,38 +11,44 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hi, I'm <a href="https://nextjs.org">Shivlal Sharma</a>
+          Hi, I'm <a href="">Shivlal Sharma</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{" "}
-          <code className={styles.code}>pages/index.js</code>
+          @GoogleCloudReady Facilitator|HackClub Lead| AngleHacks student
+          ambassador|BlockChain Ethusiast{" "}
         </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <h3>About Me &rarr;</h3>
+            <p>
+              Hi! I'm Shivlal Sharma, I'm passionate for contributing to
+              Open-source, developing new projects, learning new things.
+            </p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <h3>Projects &rarr;</h3>
+            <p>Do want see some cool project that i have built, check it!</p>
           </a>
 
           <a
             href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
           >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h3>Contact Me &rarr;</h3>
+            <p>
+              Whether you have a question, want to say hi, or anything else that
+              it may be , my inbox is always open!
+            </p>
           </a>
 
           <a
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h3>Deploy &rarr;</h3>
+            <h3>Skills &rarr;</h3>
             <p>
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
