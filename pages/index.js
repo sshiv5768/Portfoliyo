@@ -6,7 +6,6 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>💻 Shivlal Sharma</title>
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
@@ -28,9 +27,11 @@ export default function Home() {
             </p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="" className={styles.card}>
             <h3>Projects &rarr;</h3>
-            <p>Do want see some cool project that i have built, check it!</p>
+            <p>
+              Do you want to see some cool project that i have built, check it!
+            </p>
           </a>
 
           <a
@@ -50,7 +51,9 @@ export default function Home() {
           >
             <h3>Skills &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              <li>Python</li>
+              <li>ReactJs</li>
+              <li>Django</li>
             </p>
           </a>
         </div>
