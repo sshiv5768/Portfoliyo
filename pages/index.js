@@ -15,8 +15,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          @GoogleCloudReady Facilitator|HackClub Lead| AngleHacks student
-          ambassador|BlockChain Ethusiast{" "}
+          @GoogleCloudReady Facilitator|HackClub Lead| <hr></hr>AngleHacks
+          student ambassador|BlockChain Ethusiast{" "}
         </p>
 
         <div className={styles.grid}>
