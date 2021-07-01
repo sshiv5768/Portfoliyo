@@ -54,6 +54,7 @@ export default function Home() {
               <li>Python</li>
               <li>ReactJs</li>
               <li>Django</li>
+              <li>Flask</li>
             </p>
           </a>
         </div>
